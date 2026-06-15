@@ -1,5 +1,5 @@
 # anthropic-leaked-prompt-with-tools
-
+https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md
 An unofficial research archive of prompt material, tool instructions, and skill packages attributed to Anthropic Claude.
 
 This repository is intended for people who want to study how Claude-style skills are organized: how trigger descriptions are written, how workflows are documented, how supporting scripts are bundled, and how packaged `.skill` files map to readable source folders.
